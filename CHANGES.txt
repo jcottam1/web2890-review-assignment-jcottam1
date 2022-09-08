@@ -1,0 +1,11 @@
+TODO: List here all the changes you made to given template to adapt it to your needs
+1. Changed the stars to be filled instead of empty on the testimonials section so that it better shows that the people in the testimonials section have rated the services 5 stars more clearly
+2. Removed the "Useful links" section in the footer because it didn't fit into the overall need for the portfolio and the footer needed to be cleaned up a little bit.
+3. Changed the svg waves in both the intro section and the testimonials section to rectangles because I felt that it better fit the "web development" portfolio webpage aesthetic.
+4. Removed the dedicated Social Media section in the footer because it was taking up unnecessary space in the footer
+5. Added back the socal media section to a smaller part of the footer columns so that it fits in a bit better with the footer
+6. Added a background color to the "contact-box" section so that it breaks up the sections in the footer a bit better
+7. Removed the phone number button in the navbar becuase it was already listed in the footer and I wanted people to focus more on seeing the portfolio website first and then they will then be able to reach me after they have reached the footer
+8. Added a search box in the navbar so that users can easily find information within my portfolio website.
+9. Added "New!" badges to the marketing and cloud hosting sections of the services section of the portfolio to show that those services are new within the company
+10. Made the buttons above the portfolio latest work section into a button group that spans across the page. I did this so that the buttons are eaiser to find and it acts as a small navbar section which is the aesthetic I was going for.
